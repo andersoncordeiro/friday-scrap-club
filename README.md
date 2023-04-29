@@ -1,1 +1,3 @@
-# friday-scrap-club
+# Friday Scrap Club
+
+### Python Magic
